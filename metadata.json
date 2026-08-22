@@ -1,0 +1,6 @@
+{
+  "name": "NEXA HR",
+  "description": "Intelligent Human Resource Management System with workforce analytics, AI insights, employee 360 profile, attendance, leave, payroll, and recruitment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
